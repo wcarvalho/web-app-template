@@ -6,7 +6,6 @@ import authentication
 import cards
 from datetime import datetime, timedelta
 from firebase_config import db
-import asyncio
 
 # Load environment variables
 load_dotenv()

@@ -1,4 +1,5 @@
 # Environment files
+firebase-key.json
 .env
 .venv
 env/
