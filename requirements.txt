@@ -1,0 +1,6 @@
+nicegui
+requests_oauthlib
+python-dotenv
+firebase-admin
+google-auth-oauthlib
+google-auth
